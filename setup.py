@@ -22,7 +22,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name = "End to End ML Project",
-    version = "0.0.4",
+    version = "0.0.1",
     author = "Anirudhra rao",
     author_email = "raorudhra16@gmail.com",
     packages = find_packages(),
